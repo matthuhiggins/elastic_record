@@ -1,0 +1,1 @@
+ElasticRecord is now hosted at [data-axle/elastic_record](https://github.com/data-axle/elastic_record)
