@@ -1,4 +1,0 @@
-services:
-  - elasticsearch
-rvm:
-  - 1.9.3
